@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea48ff9c-b0ea-42ef-93ac-cbea10ea9bca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/assessment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SUJET.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-assessment/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-assessment/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-assessment/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-assessment/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-assessment/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-assessment/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-assessment/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-assessment/src/main/java/fr/esgi/jal4/si/ms/assessment/AssessmentProjectApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-assessment/src/main/java/fr/esgi/jal4/si/ms/assessment/MainController" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-assessment/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-assessment/src/test/java/fr/esgi/jal4/si/ms/assessment/AssessmentProjectApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/AVAILABILITY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/EUREKA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/HETEROGENEITY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/K8S.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/LANGUAGES.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/SCALABILITY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-assessment/src/main/java/fr/esgi/jal4/si/ms/assessment/Str.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-assessment/src/main/java/fr/esgi/jal4/si/ms/assessment/MainController" beforeDir="false" afterPath="$PROJECT_DIR$/ms-assessment/src/main/java/fr/esgi/jal4/si/ms/assessment/MainController" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +29,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../examen" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -77,18 +57,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="90" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595336551050">
+    <state x="90" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595339512144">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="90" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1595336551050" />
+    <state x="90" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1595339512144" />
     <state x="388" y="144" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595335874080">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="388" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1595335874080" />
-    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595336550132">
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595339511297">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1595336550132" />
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1595339511297" />
     <state x="360" y="0" width="575" height="680" key="#main" timestamp="1595336518191">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

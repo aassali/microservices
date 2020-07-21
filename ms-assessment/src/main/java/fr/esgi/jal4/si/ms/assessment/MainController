@@ -1,8 +1,20 @@
-@SpringBootApplication
+import org.springframework.http.HttpStatus;
+import org.springframework.web.bind.annotation.*;
+@RestController
+@RequestMapping("http://localhost:8081/api")
 public class MainController {
-
-    public static void main(String[] args) {
-        SpringApplication.run(AssessmentProjectApplication.class, args);
+    public Integer taille = null;
+    @PostMapping("/text/concat")
+    public String concateString(@RequestBody Str t){
+        if(t.str1==null){
+            
+        }
+        String result = t.str1 + " " + t.str2;
+        taille = result.length();
+        return result;
     }
-
+    @GetMapping("/text/last_length")
+    public Integer returnTaille(){
+        return taille;
+    }
 }
