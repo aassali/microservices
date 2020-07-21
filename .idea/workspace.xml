@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea48ff9c-b0ea-42ef-93ac-cbea10ea9bca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/assessment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SUJET.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-assessment/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-assessment/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-assessment/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-assessment/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-assessment/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-assessment/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-assessment/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-assessment/src/main/java/fr/esgi/jal4/si/ms/assessment/AssessmentProjectApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-assessment/src/main/java/fr/esgi/jal4/si/ms/assessment/MainController" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-assessment/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-assessment/src/test/java/fr/esgi/jal4/si/ms/assessment/AssessmentProjectApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/AVAILABILITY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/EUREKA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/HETEROGENEITY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/K8S.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/LANGUAGES.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/SCALABILITY.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eznCI7AEFxXt689h6V7RSgqvKd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../examen" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.sun.org.apache.xerces.internal.impl.Constants" />
+      <module name="assessment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea48ff9c-b0ea-42ef-93ac-cbea10ea9bca" name="Default Changelist" comment="" />
+      <created>1595333159047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595333159047</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="90" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595336551050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="90" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1595336551050" />
+    <state x="388" y="144" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595335874080">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="388" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1595335874080" />
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595336550132">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1595336550132" />
+    <state x="360" y="0" width="575" height="680" key="#main" timestamp="1595336518191">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="0" width="575" height="680" key="#main/0.0.1280.680@0.0.1280.680" timestamp="1595336518191" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1595337904633">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595337904633" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1595337094675">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595337094675" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1595337094675">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595337094675" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1595337094675">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595337094675" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1595337094675">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595337094675" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1595336183014">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1595336183014" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1595337890549">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1595337890549" />
+    <state x="375" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595335541098">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="375" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1595335541098" />
+  </component>
+</project>
